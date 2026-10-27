@@ -64,5 +64,30 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Give Lively is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://givelively.org/
+Give Lively provides a free, values‑driven fundraising platform for nonprofits, offering tools such as campaign pages, donation widgets, text‑to‑donate, event ticketing, peer‑to‑peer fundraising, and a robust integration ecosystem. It serves over 50,000 organizations worldwide, emphasizing zero platform fees, secure bank‑level encryption, and open access to help nonprofits maximize donor impact.
+
+**Areas:** Nonprofit · Fundraising · Platform · Free · Open-source · Community
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://givelively.org/)
+- [Documentation](https://www.givelively.org/)
+- [Getting started](https://www.givelively.org/topics/getting-started)
+- [API reference](https://www.givelively.org/)
+- [Pricing](https://www.givelively.org/pricing)
+- [Sign up](https://www.givelively.org/blog/sign-up-for-beta-testing-opportunity-emails)
+- [Support](https://www.givelively.org/support)
+- [Changelog](https://feedback.givelively.org/changelog)
+- [Blog](https://www.givelively.org/blog)
+- [Terms of service](https://www.givelively.org/terms-of-use)
+- [Privacy policy](https://www.givelively.org/data-privacy-and-security)
+- [GitHub](https://github.com/givelively)
+- [Status](https://status.givelively.org/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/give-lively/](https://apis.io/providers/give-lively/).
